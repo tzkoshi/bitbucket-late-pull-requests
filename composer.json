@@ -1,0 +1,17 @@
+{
+    "name": "tsvetan/mattermost-bitucket",
+    "type": "project",
+    "require": {
+        "bitbucket/client": "^4.0",
+        "guzzlehttp/guzzle": "^7.2",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "nategood/commando": "^0.4.0",
+        "nategood/httpful": "^0.3.2"
+    },
+    "authors": [
+        {
+            "name": "Tsvetan Koshutanski",
+            "email": "tz.koshutanski@inv.bg"
+        }
+    ]
+}
